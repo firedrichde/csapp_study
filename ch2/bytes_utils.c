@@ -19,7 +19,7 @@ int32_t show_int(long x,unsigned char* dst){
 int is_little_endian(){
 	int x=1;
 	byte_pointer p = (byte_pointer)&x;
-	if(0 == x^(*p))
+	if(0 == (x & (*p)))
 		return 0;
 	else
 		return 1;
