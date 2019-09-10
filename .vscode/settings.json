@@ -1,6 +1,9 @@
 {
     "files.associations": {
         "bytes_display.h": "c",
-        "types.h": "c"
+        "types.h": "c",
+        "bytes_utils.h": "c",
+        "cutest.h": "c",
+        "setjmp.h": "c"
     }
 }
