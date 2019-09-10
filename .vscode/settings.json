@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bytes_display.h": "c",
+        "types.h": "c"
+    }
+}
