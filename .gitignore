@@ -5,3 +5,12 @@ ch2/test_bytes_display
 ch2/tmp
 ch2/tmp.c
 ch2/bytes_utils.o
+ch2/display.c
+ch2/display.o
+ch2/display
+ch2/allTests
+ch2/allTest.i
+ch2/mask_sample.c
+ch2/*.o
+ch2/bytes_display.c
+ch2/bytes_display.h
